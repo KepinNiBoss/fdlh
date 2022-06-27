@@ -1,0 +1,17 @@
+.body {
+  background-color: white;
+  width: auto;
+}
+
+.jumbotron {
+  background-color: #82a284;
+  width: auto;
+}
+
+#news {
+  background-color: #82a284;
+}
+
+section {
+  padding-top: 5rem;
+}
